@@ -3,7 +3,7 @@
   'use strict';
 
   // ============== 1. CONFIG (only place to edit) ==============
-  const API_URL = 'https://script.google.com/macros/s/AKfycbzYjiB3ddmrPstQhUfQDTqM5907OYfpyKnh6c75jI4aeiPu2ozRRwMOlbFVcsJxyCAqMg/exec';
+  const API_URL = 'https://script.google.com/macros/s/https://script.google.com/macros/library/d/1-5lSGjYJaa8_XHKtf7S9EtbZlimoOfWkoFMDr19GIlAckT5UtSrls7_H/5/exec';
   const LS_KEY = 'onmart_session';
 
   const ERR = {
